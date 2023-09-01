@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main()
+int main ()
 {
     int a[3][3] , i , j ,s = 0;
 
